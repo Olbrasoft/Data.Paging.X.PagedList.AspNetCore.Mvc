@@ -25,5 +25,4 @@ Reason asimilation repository are dependent on https://github.com/troygoode/Page
 
 ![Sample](./assets/SearchResult.jpg?raw=true)
 
-
-![Olbrasoft Paging Icon](https://raw.githubusercontent.com/Olbrasoft/Data.Paging.X.PagedList.AspNetCore.Mvc/master/olbrasoft-x-paged-list.png)
+![Olbrasoft Paging Icon](./olbrasoft-x-paged-list.png)
