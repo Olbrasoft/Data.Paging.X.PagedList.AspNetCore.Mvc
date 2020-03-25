@@ -9,7 +9,7 @@ using System.Collections.Generic;
 using System.Linq;
 using X.PagedList;
 
-namespace Olbrasoft.Paging.X.PagedList.AspNetCore.Mvc
+namespace Olbrasoft.Data.Paging.X.PagedList.AspNetCore.Mvc
 {
     [HtmlTargetElement("pager")]
     public class PagerTagHelper : TagHelper

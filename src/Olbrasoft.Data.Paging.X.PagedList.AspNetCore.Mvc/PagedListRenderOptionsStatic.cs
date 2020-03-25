@@ -1,6 +1,6 @@
-using Olbrasoft.Paging.X.PagedList.AspNetCore.Mvc;
+using Olbrasoft.Data.Paging.X.PagedList.AspNetCore.Mvc;
 
-namespace Olbrasoft.Paging.X.PagedList.AspNetCore.Mvc
+namespace Olbrasoft.Data.Paging.X.PagedList.AspNetCore.Mvc
 {
     ///<summary>
     /// Options for configuring the output of <see cref = "HtmlHelper" />.

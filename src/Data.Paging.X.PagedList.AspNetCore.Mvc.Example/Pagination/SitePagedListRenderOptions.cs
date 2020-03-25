@@ -1,4 +1,4 @@
-﻿using Olbrasoft.Paging.X.PagedList.AspNetCore.Mvc;
+﻿using Olbrasoft.Data.Paging.X.PagedList.AspNetCore.Mvc;
 
 namespace PagedList.Core.Mvc.Sample.Pagination
 {

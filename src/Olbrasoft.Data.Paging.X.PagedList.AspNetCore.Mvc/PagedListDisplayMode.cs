@@ -1,4 +1,4 @@
-﻿namespace Olbrasoft.Paging.X.PagedList.AspNetCore.Mvc
+﻿namespace Olbrasoft.Data.Paging.X.PagedList.AspNetCore.Mvc
 {
     /// <summary>
     /// A tri-state enum that controls the visibility of portions of the PagedList paging control.

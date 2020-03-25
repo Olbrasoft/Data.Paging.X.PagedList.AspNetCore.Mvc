@@ -1,9 +1,7 @@
-using Olbrasoft.Paging.X.PagedList.AspNetCore.Mvc;
-using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Olbrasoft.Paging.X.PagedList.AspNetCore.Mvc
+namespace Olbrasoft.Data.Paging.X.PagedList.AspNetCore.Mvc
 {
     ///<summary>
     /// Options for configuring the output of <see cref = "HtmlHelper" />.
