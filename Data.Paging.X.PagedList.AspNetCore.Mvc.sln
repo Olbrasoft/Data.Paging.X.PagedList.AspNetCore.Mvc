@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.98
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Olbrasoft.Data.Paging.X.PagedList.AspNetCore.Mvc", "src\Olbrasoft.Data.Paging.X.PagedList.AspNetCore.Mvc\Olbrasoft.Data.Paging.X.PagedList.AspNetCore.Mvc.csproj", "{7DA14FC3-EBC7-410F-9121-BD6636CF6A13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data.Paging.X.PagedList.AspNetCore.Mvc.Example", "src\Data.Paging.X.PagedList.AspNetCore.Mvc.Example\Data.Paging.X.PagedList.AspNetCore.Mvc.Example.csproj", "{91620DBF-8C9D-4434-B458-F81F6BBDFEEC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ED6C6907-A02C-4AD0-A442-9C87C5823B2E}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DA14FC3-EBC7-410F-9121-BD6636CF6A13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DA14FC3-EBC7-410F-9121-BD6636CF6A13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DA14FC3-EBC7-410F-9121-BD6636CF6A13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DA14FC3-EBC7-410F-9121-BD6636CF6A13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91620DBF-8C9D-4434-B458-F81F6BBDFEEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91620DBF-8C9D-4434-B458-F81F6BBDFEEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91620DBF-8C9D-4434-B458-F81F6BBDFEEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91620DBF-8C9D-4434-B458-F81F6BBDFEEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F433A2F-CE69-4B79-B2ED-0B937CF1E50D}
+	EndGlobalSection
+EndGlobal
